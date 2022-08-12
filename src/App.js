@@ -8,7 +8,7 @@ import Footer from "./Footer";
 function App() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Hero />
       <Platform />
       <Testimonies />
@@ -17,5 +17,6 @@ function App() {
     </>
   );
 }
+
 
 export default App;
